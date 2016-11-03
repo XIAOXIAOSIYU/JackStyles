@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="GLOBAL_BG_COLOR">#009900</color>
+
+    <style name="JACK_THEME_V1" parent="android:Theme.Holo">
+        <item name="android:windowBackground">@color/GLOBAL_BG_COLOR</item>
+    </style>
+
+    <!--<style name="BaseLabel">-->
+    <!--<item name="android:background">#006699</item>-->
+    <!--<item name="android:textColor">#fff</item>-->
+    <!--<item name="android:textSize">36sp</item>-->
+    <!--<item name="android:layout_width">wrap_content</item>-->
+    <!--<item name="android:layout_height">wrap_content</item>-->
+    <!--</style>-->
+    <!---->
+    <!--<style name="BaseLabel.TitleLabel">-->
+    <!--<item name="android:textSize">20sp</item>-->
+    <!--</style>-->
+
+</resources>
